@@ -1,5 +1,4 @@
 # Quafox-shopping-cart-Automation
-# Selenium E-Commerce Automation Project
 
 Automated end-to-end e-commerce workflow testing for the TutorialsNinja demo website using Selenium WebDriver and Python.
 
